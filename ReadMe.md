@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" />
+<img align="center" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"  width="100%" />
 
 <h1 align="center">Hi 👋, I'm Renata</h1>
 
