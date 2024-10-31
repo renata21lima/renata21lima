@@ -99,7 +99,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renata21lima&radius=20&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="225" alt="activity-graph graph"  />
 </div>
 
