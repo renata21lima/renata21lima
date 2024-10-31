@@ -79,7 +79,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renata21lima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renata21lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="153" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renata21lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="130" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=renata21lima&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -91,19 +91,16 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=renata21lima.renata21lima&left_color=cornflowerblue&right_color=aliceblue"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renata21lima&radius=20&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="225" alt="activity-graph graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=renata21lima.renata21lima&left_color=cornflowerblue&right_color=aliceblue"  />
+</div>
 
 ###
