@@ -2,66 +2,109 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renata+Lima!;" />
 </h1>
 
-<p align="center">
-    <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="100%" />
-</p>
+<h1 align="center">Hello World!</h1>
 
-<p align="center">
-    🌱 Atualmente estou aprendendo **HTML, CSS, JavaScript, Python e Bootstrap**<br/>
-    📫 Como me contatar: **renatafsdl@gmail.com**
-</p>
+###
 
----
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/27/13/92/271392d3af71acbd94e70bfabe6affc1.gif"  />
+</div>
 
-<h3 align="center">Conecte-se comigo 🌐</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/renatafsdl21" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</p>
+###
 
----
+<p align="left">🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap, JavaScript, JQuery e Python.</p>
 
-## 💻 Tech Stack:
-<p align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-    <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+###
 
----
+<p align="left">📚 Estou cursando Desenvolvimento de Software Multiplataforma na Fatec, onde tenho a oportunidade de explorar diferentes tecnologias e linguagens. Além do desenvolvimento de software, tenho uma grande paixão pelo mundo dos games!</p>
 
-## 📊 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=renata21lima&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=renata21lima&theme=dark&hide_border=true" width="45%" />
-</p>
+###
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata21lima&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="50%" />
-</p>
+<h2 align="left">Conecte-se comigo 🌐:</h2>
 
----
+###
 
-### ✍️ Citação Aleatória para Desenvolvedores
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
 
----
+###
 
-<p align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=renata21lima&icon=3&color=4" alt="Contador de visitas"/>
-    </a>
-</p>
+<h2 align="left">🛠️ Stack:</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h4 align="center">💻 Tech Stack:</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h4 align="center">💻Design Stack:</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renata21lima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renata21lima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="153" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=renata21lima&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/renata21lima/renata21lima/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=renata21lima.renata21lima&left_color=cornflowerblue&right_color=aliceblue"  />
+</div>
+
+###
+
+<img align="left" height="250" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif"  />
+
+###
+
+<div align="right">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renata21lima&radius=20&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="225" alt="activity-graph graph"  />
+</div>
+
+###
