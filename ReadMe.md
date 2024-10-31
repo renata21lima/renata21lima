@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 Com uma sólida experiência em administração e química, e um histórico de habilidades analíticas e organizacionais, estou em transição para a área de TI, buscando explorar novas oportunidades e desafios. Minha paixão por tecnologia e aprendizado contínuo me levou a adquirir qualificações em Front-End e Python, complementando meu conhecimento prévio em metodologias como 5S e Kanban, bem como em comunicação e trabalho em equipe. Possuo conhecimento avançado no pacote Office e um nível intermediário de inglês. Para fortalecer ainda mais minhas habilidades, estou iniciando uma faculdade de desenvolvimento de software multiplataforma, onde pretendo aplicar e expandir meu conjunto de habilidades. Estou entusiasmada para contribuir com minha experiência e paixão em um ambiente tecnológico dinâmico e inovador.<br>
+<h1 align="center">Hi 👋, I'm Renata</h1>
+
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python and Bootsrapt**
+
+- 📫 How to reach me **renatafsdl@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/renatafsdl21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renatafsdl21" height="30" width="40" /></a>
+</p>
 
 
 ## 🌐 Socials:
