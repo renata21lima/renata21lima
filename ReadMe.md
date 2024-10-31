@@ -28,12 +28,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=renata21lima&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=renata21lima&theme=dark&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=renata21lima&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=renata21lima&theme=dark&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata21lima&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata21lima&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400" />
 </p>
 
 ### ✍️ Citação Aleatória para Desenvolvedores
@@ -43,5 +43,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=renata21lima&icon=3&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
