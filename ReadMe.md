@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Renata</h1> <h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renata+Lima!;" />
 </h1>
+
 <p align="center">
     <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="100%" />
 </p>
