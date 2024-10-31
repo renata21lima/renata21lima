@@ -99,18 +99,11 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif"  />
-
-###
-
 <div align="right">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renata21lima&radius=20&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="225" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renata21lima&radius=20&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="225" alt="activity-graph graph"  />
-</div>
 
 ###
