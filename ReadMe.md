@@ -46,6 +46,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata21lima&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="50%" />
 </p>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ---
 
 ### ✍️ Citação Aleatória para Desenvolvedores
