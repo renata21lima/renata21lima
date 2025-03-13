@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap, JavaScript, JQuery e Python.</p>
+<p align="left">🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Java, Python.</p>
 
 ###
 
