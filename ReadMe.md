@@ -86,12 +86,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/renata21lima/renata21lima/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=renata21lima.renata21lima&right_color=lightgrey"  />
 </div>
