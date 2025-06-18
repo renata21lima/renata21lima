@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 Estou cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema, onde tenho a oportunidade de explorar diferentes tecnologias e linguagens. Além do desenvolvimento de software, tenho uma grande paixão pelo mundo dos games!</p>
+<p align="left">📚 Atualmente cursando Desenvolvimento de Software Multiplataforma na Fatec Diadema, onde tenho a oportunidade de explorar diferentes tecnologias e linguagens. Além do desenvolvimento de software, tenho uma grande paixão pelo mundo dos games!</p>
 
 ###
 
