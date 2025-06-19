@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Java, Python.</h3>
+<h3 align="left">🌱 Atualmente estou aprendendo HTML, CSS, Bootstrap, Tailwind, JavaScript, Java, Python.</h3>
 
 ###
 
