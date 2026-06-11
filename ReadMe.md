@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">Tech</h4>
+<h4 align="left">Tech: </h4>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h5 align="left">Cloud</h5>
+<h5 align="left">Cloud: </h5>
 
 ###
 
