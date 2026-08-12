@@ -1,107 +1,17 @@
-<div>
-  <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=15307b&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=15307b"  />
-</div>
+<div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0F172A&fontColor=F8FAFC&fontSize=40&fontAlign=50&fontAlignY=50" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Renata+%F0%9F%91%8B;ADS+Student+%7C+Tech+Enthusiast;ServiceNow+%7C+Cloud+%7C+Full+Stack" alt="Typing SVG" /> </div> <br/> <div align="center"> <a href="https://www.linkedin.com/in/renatafsdl21" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:renatafsdl@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> <br/>
+👩‍💻 About Me
+java
+public class Renata {
 
-###
-
-<h1 align="center">Hello World! I'm Renata</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="www.linkedin.com/in/renatafsdl21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="renatafsdl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas<br>- Estagiária de Automação com ServiceNow<br>- Conhecimentos em AWS, Azure e Google Cloud<br>- Interesse em Automação, Desenvolvimento Full Stack e Cloud</p>
-
-###
-
-<h2 align="left">Stack's</h2>
-
-###
-
-<h4 align="left">Tech: </h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-</div>
-
-###
-
-<h5 align="left">Cloud: </h5>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="35" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
-</div>
-
-###
-
-<h2 align="left">GitHub Stats:</h2>
-
-###
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=renata21lima&theme=github-dark&hide_border=true" height="150" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renata21lima&theme=github-dark&area=true&hide_border=true&hide_title=true" width="100%" />
-
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=renata21lima.renata21lima&left_color=darkblue&right_color=darkblue"  />
-</div>
-
-###
-
-<div>
-  <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=15307b"  />
-</div>
-
-###
+    String[] formacao  = {"Análise e Desenvolvimento de Sistemas"};
+    String   trabalho  = "Estagiária de Automação com ServiceNow";
+    String[] interesses = {"Full Stack", "Cloud", "Automação"};
+    String[] cloud     = {"AWS", "Azure", "Google Cloud"};
+    String   status    = "Sempre aprendendo! 🚀";
+}
+<br/>
+🛠️ Tech Stack
+<h4>💻 Linguagens & Frameworks</h4> <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </div> <br/> <h4>☁️ Cloud</h4> <div align="center"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </div> <br/> <h4>🔧 Ferramentas</h4> <div align="center"> <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </div> <br/>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=renata21lima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&icon_color=3B82F6" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata21lima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC" height="160" /> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=renata21lima&theme=tokyonight&hide_border=true&background=0F172A&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=F8FAFC&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=CBD5E1" height="150" /> </div> <br/> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=renata21lima&theme=tokyo-night&area=true&hide_border=true&bg_color=0F172A&color=3B82F6&line=3B82F6&point=F8FAFC" width="100%" /> </div> <br/>
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=renata21lima.renata21lima&left_color=0F172A&right_color=3B82F6&left_text=visitors" /> </div> <br/> <div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0F172A&fontColor=F8FAFC" /> </div>
