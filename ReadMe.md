@@ -27,7 +27,7 @@
 public class Renata {
 
     String[] formacao   = {"Análise e Desenvolvimento de Sistemas"};
-    String   trabalho   = "Estagiária de Automação com ServiceNow";
+    String   trabalho   = "Estagiária de Automação e desenvolvimento de fluxo com ServiceNow";
     String[] interesses = {"Full Stack", "Cloud", "Automação"};
     String[] cloud      = {"AWS", "Azure", "Google Cloud"};
     String   status     = "Sempre aprendendo! 🚀";
